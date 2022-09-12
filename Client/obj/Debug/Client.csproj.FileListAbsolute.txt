@@ -1,0 +1,51 @@
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\MainWindow.g.cs
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\App.g.cs
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client_MarkupCompile.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client_MarkupCompile.lref
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\Client.exe.config
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\Client.exe
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\Client.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\Tutorial1_Server.exe
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\Tutorial 1_20908621.dll
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\Tutorial1_Server.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\Tutorial1_Server.exe.config
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\Tutorial 1_20908621.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\MainWindow.baml
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.g.resources
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.Properties.Resources.resources
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.CopyComplete
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.exe
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\obj\Debug\Client.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\ServerExecutable.dll
+F:\1. Year 3 SEM 2\1. Distributed Computing\Lecture 1\DC_Lab1\Tutorial 1_20908621\Client\bin\Debug\ServerExecutable.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\Client.exe.config
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\Client.exe
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\Client.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\ServerExecutable.dll
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\Tutorial1_Server.exe
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\Tutorial 1_20908621.dll
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\Tutorial1_Server.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\Tutorial1_Server.exe.config
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\ServerExecutable.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\Tutorial 1_20908621.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\MainWindow.g.cs
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\App.g.cs
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client_MarkupCompile.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client_MarkupCompile.lref
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\MainWindow.baml
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.g.resources
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.Properties.Resources.resources
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.csproj.CopyComplete
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.exe
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\obj\Debug\Client.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\BusinessTier.exe
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\BusinessTier.pdb
+F:\1. Year 3 SEM 2\1. Distributed Computing\Tutorial\Tutorial 2 & 3\Tutorial 1_20908621\Client\bin\Debug\BusinessTier.exe.config

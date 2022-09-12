@@ -1,0 +1,29 @@
+﻿<Window x:Class="AsynchronousClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AsynchronousClient"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800" Background="#FF3F4ADC">
+
+    <Grid>
+        <StackPanel Margin="0,-21,0,0">
+            <Image x:Name="ImageCode" Width="108" Height="150" Margin="215,60,0,0"/>
+
+
+        </StackPanel>
+        <TextBlock x:Name="FirstName" HorizontalAlignment="Left" Margin="265,77,0,0" TextWrapping="Wrap" Text="FirstName" VerticalAlignment="Top" Width="168" Background="#FF85F3E7"/>
+        <TextBlock x:Name="LastName" HorizontalAlignment="Left" Margin="265,117,0,0" TextWrapping="Wrap" Text="LastName" VerticalAlignment="Top" Width="168" Background="#FF95F1E7"/>
+        <TextBlock x:Name="AcctNo" HorizontalAlignment="Left" Margin="265,154,0,0" TextWrapping="Wrap" Text="AcctNo" VerticalAlignment="Top" Width="168" Background="#FF79E8DB"/>
+        <TextBlock x:Name="Pin" HorizontalAlignment="Left" Margin="265,190,0,0" TextWrapping="Wrap" Text="Pin" VerticalAlignment="Top" Width="168" Background="#FFA2F1E8"/>
+        <TextBlock x:Name="Balance" HorizontalAlignment="Left" Margin="265,227,0,0" TextWrapping="Wrap" Text="Balance" VerticalAlignment="Top" Width="168" Background="#FF88EADF"/>
+        <Button x:Name="Go" Content="Go" HorizontalAlignment="Left" Margin="447,263,0,0" VerticalAlignment="Top" Width="72" Click="GoButton_Click" Background="#FF13ECF1"/>
+        <TextBlock x:Name="TotalNum" HorizontalAlignment="Left" Margin="252,286,0,0" TextWrapping="Wrap" Text="TotalNum" VerticalAlignment="Top" Width="98" RenderTransformOrigin="0.697,0.629"/>
+        <TextBox x:Name="Index" HorizontalAlignment="Left" Margin="225,263,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152"/>
+        <TextBox x:Name="SearchBox" HorizontalAlignment="Left" Margin="225,317,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152" />
+        <Button x:Name="Search" HorizontalAlignment="Left" Margin="447,317,0,0" VerticalAlignment="Top" Click="SearchButton_Click" Background="#FF13ECF1" Content="Search" Width="72" />
+        <ProgressBar x:Name="myProgressBar"  Margin="605,67,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Width="120" Value="0" Height="18"/>
+
+    </Grid>
+</Window>
